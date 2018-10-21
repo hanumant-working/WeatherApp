@@ -3,8 +3,11 @@
 Implemented this assignment in swift 4.2 using Xcode 10 below some details:
 
 Network Request: URLSession
+
 Local Storage: Core Data
+
 Design Pattern: MVVM
+
 JSON Parsing: Codable Protocol
 
 
